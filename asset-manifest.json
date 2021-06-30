@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/HTML-Editor/static/css/main.cefecee5.chunk.css",
-    "main.js": "/HTML-Editor/static/js/main.628f4f30.chunk.js",
-    "main.js.map": "/HTML-Editor/static/js/main.628f4f30.chunk.js.map",
+    "main.css": "/HTML-Editor/static/css/main.4cfba789.chunk.css",
+    "main.js": "/HTML-Editor/static/js/main.520bf6bb.chunk.js",
+    "main.js.map": "/HTML-Editor/static/js/main.520bf6bb.chunk.js.map",
     "runtime-main.js": "/HTML-Editor/static/js/runtime-main.7142c3f3.js",
     "runtime-main.js.map": "/HTML-Editor/static/js/runtime-main.7142c3f3.js.map",
     "static/js/2.da246fe0.chunk.js": "/HTML-Editor/static/js/2.da246fe0.chunk.js",
@@ -422,13 +422,13 @@
     "smarty.js": "/HTML-Editor/ff6e85bb753b94d4add40e79a70c2875.js",
     "io.js": "/HTML-Editor/ffb285847c77432bb38e9fbf9789d323.js",
     "index.html": "/HTML-Editor/index.html",
-    "static/css/main.cefecee5.chunk.css.map": "/HTML-Editor/static/css/main.cefecee5.chunk.css.map",
+    "static/css/main.4cfba789.chunk.css.map": "/HTML-Editor/static/css/main.4cfba789.chunk.css.map",
     "static/js/2.da246fe0.chunk.js.LICENSE.txt": "/HTML-Editor/static/js/2.da246fe0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7142c3f3.js",
     "static/js/2.da246fe0.chunk.js",
-    "static/css/main.cefecee5.chunk.css",
-    "static/js/main.628f4f30.chunk.js"
+    "static/css/main.4cfba789.chunk.css",
+    "static/js/main.520bf6bb.chunk.js"
   ]
 }
